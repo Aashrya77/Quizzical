@@ -1,0 +1,199 @@
+{
+  "data": [
+  {
+    "id": 1,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following sports is not part of the triathlon?",
+    "correct_answer": "Horse-Riding",
+    "answer": ["Cycling","Horse-Riding", "Swimming", "Running"]
+  },
+  {
+    "id": 2,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In golf, what name is given to a hole score of two under par?",
+    "correct_answer": "Eagle",
+    "answer": ["Birdie", "Bogey","Eagle", "Albatross"]
+  },
+  {
+    "id": 3,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what sport is a 'shuttlecock' used?",
+    "correct_answer": "Badminton",
+    "answer": ["Badminton","Table Tennis", "Rugby", "Cricket"]
+  },
+  {
+    "id": 4,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which team won the 2015-16 English Premier League?",
+    "correct_answer": "Leicester City",
+    "answer": ["Liverpool","Leicester City", "Cheslea", "Manchester United"]
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country has hosted the 2018 FIFA World Cup?",
+    "correct_answer": "Russia",
+    "answer": ["Russia","Germany", "United States", "Saudi Arabia"]
+  },
+  {
+    "id": 6,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many points did LeBron James score in his first NBA game?",
+    "correct_answer": "25",
+    "answer": ["19", "69","25", "41"]
+  },
+  {
+    "id": 7,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+    "correct_answer": "4",
+    "answer": ["1","4", "2", "3"]
+  },
+  {
+    "id": 8,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "This Canadian television sportscaster is known for his 'Hockey Night in Canada' role, a commentary show during hockey games.",
+    "correct_answer": "Don Cherry",
+    "answer": ["Don McKellar","Don Cherry", "Don Taylor ", "Donald Sutherland"]
+  },
+  {
+    "id": 9,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was the first official international game played?",
+    "correct_answer": "1872",
+    "answer": ["1880", "1863", "1865","1872"]
+  },
+  {
+    "id": 10,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+    "correct_answer": "Fastball",
+    "answer": ["Fastball","Slowball", "Screwball", "Palmball"]
+  },
+  {
+    "id": 11,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What team did England beat to win in the 1966 World Cup final?",
+    "correct_answer": "West Germany",
+    "answer": ["Soviet Union", "West Germany", "Portugal", "Brazil"]
+  },
+  {
+    "id": 12,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In bowling, what is the term used for getting three consecutive strikes?",
+    "correct_answer": "Turkey",
+    "answer": ["Flamingo", "Birdie","Turkey", "Eagle"]
+  },
+  {
+    "id": 13,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of Manchester United's home stadium?",
+    "correct_answer": "Old Trafford",
+    "answer": [
+      "Anfield",
+      "City of Manchester Stadium",
+      "St James Park",
+      "Old Trafford"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was the FC Schalke 04 founded?",
+    "correct_answer": "1904",
+    "answer": ["1909","1904", "2008", "1999"]
+  },
+  {
+    "id": 15,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who did Steven Gerrard win the Champions League with?",
+    "correct_answer": "Liverpool",
+    "answer": ["Real Madrid","Liverpool", "Chelsea", "Man City"]
+  },
+  {
+    "id": 16,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "'Stadium of Light' is the home stadium for which soccer team?",
+    "correct_answer": "Sunderland FC",
+    "answer": [
+      "Barcelona FC",
+      "Paris Saints-Germain",
+      "Manchester United",
+      "Sunderland FC"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which year did Jenson Button won his first ever Formula One World Drivers Championship?",
+    "correct_answer": "2009",
+    "answer": ["2010", "2007", "2006","2009"]
+  },
+  {
+    "id": 18,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country will host the 2022 FIFA World Cup?",
+    "correct_answer": "Qatar",
+    "answer": ["USA", "Japan", "Switzerland", "Qatar"]
+  },
+  {
+    "id": 19,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the 2017 Formula One World Drivers Championship?",
+    "correct_answer": "Lewis Hamilton",
+    "answer": ["Sebastian Vettel", "Nico Rosberg","Lewis Hamilton", "Max Verstappen"]
+  },
+  {
+    "id": 20,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the UEFA Champions League in 2016?",
+    "correct_answer": "Real Madrid C.F.",
+    "answer": [
+      "FC Bayern Munich",
+      "Atletico Madrid",
+      "Manchester City F.C.",
+      "Real Madrid C.F."
+    ]
+  }
+]
+}

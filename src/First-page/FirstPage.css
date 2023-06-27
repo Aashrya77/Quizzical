@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Start {
+  background-image: url("../Images/blob-scene-haikei.svg");
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 225px;
+  padding-bottom: 280px;
+  flex-direction: column;
+  font-size: 29px;
+}
+
+.Start button {
+  padding: 8px 25px;
+  font-size: 18px;
+  margin-top: 18px;
+  border: none;
+  border-radius: 6px;
+  background-color: #a8a89e;
+  color: white;
+  font: bolder;
+}
+
+@media only screen and (max-width: 768px) {
+  .Start {
+    font-size: 20px;
+    padding: 235px 0;
+  }
+
+  .Start button {
+    font-size: 15px;
+    padding: 8px 35px;
+  }
+}
